@@ -1,0 +1,1 @@
+worker: node score-bot.js

@@ -1,0 +1,19 @@
+{
+  "name": "score-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "score-bot.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node score-bot.js"
+  },
+  "author": "ansi22",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.0.1",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.12"
+  }
+}
